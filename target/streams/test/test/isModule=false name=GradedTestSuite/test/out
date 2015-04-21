@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mGradedTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- An empty board is not finished[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board with 2nd column is filled with X and there are two Os is finished[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board with first row is streak of O, 2nd row is streak of X is finished[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board is completely filled with Xs and Os, but no streak of X or O is finished[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board is completely filled with Xs and Os, and there are a streak of X and a streak of O is finished[0m[0m
+[0m[[0minfo[0m] [0m[32m- An empty board has no winner[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board with 2nd column is filled with X and there are two Os has Winner is X[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board with first row is streak of O, 2nd row is streak of X has no winner[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board is completely filled with Xs and Os, but no streak of X or O has no winner[0m[0m
+[0m[[0minfo[0m] [0m[32m- A board is completely filled with Xs and Os, and there are a streak of X and a streak of O has no winner[0m[0m

@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mTicTesting:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does isFinished produce true on a full board?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does isFinished produce false on an empty board?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does getWinner find a winner in a row?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does getWinner find a winner in a column?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does getWinner find a winner on the anti-diagonal?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does getWinner find a winner on the  diagonal?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does nextBoards produce nine next-boards for the empty board?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does nextBoards produce 3 next-boards when there are three spots left?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does minimax report draw on the empty board?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does minimax report X as winner on this board (in one move)?[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does minimax report X as winner on this board (in two moves by X)?[0m[0m
